@@ -1,0 +1,1 @@
+C:\Users\WSFurnas\Documents\Programming\MAUI\maui-bible-app\Bible\Bible\Bible.csproj;x64
